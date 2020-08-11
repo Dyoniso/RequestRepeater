@@ -7,10 +7,12 @@ Open dir /data
 * type header in header file
 * type link in link file
 * type data of request in data file   
+
 Start tool
 * select x time
 * select delay of repeater
 * write yes and enjoy!  
+
 This tool supports mult headler, link or data.
 * type ++ and data value in data file
 * type ++ and header content in header file
